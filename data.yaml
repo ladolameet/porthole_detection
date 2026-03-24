@@ -1,0 +1,7 @@
+names:
+- Pothole
+- Crack
+- Waterlogging
+nc: 3
+train: /content/drive/MyDrive/dataset/train/images
+val: /content/drive/MyDrive/dataset/val/images
